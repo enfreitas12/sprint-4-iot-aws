@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+dashboard/sensor_data.jsonl
+
+iot-simulator/certs/*
+!iot-simulator/certs/.gitkeep
